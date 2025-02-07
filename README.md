@@ -12,6 +12,7 @@ Ferramentas:
 
 Instalar o cypress:
    - npm install -D cypress@7.7.0
+     
 Instalar o cucumber:
    - npm install --save-dev cypress cypress-cucumber-preprocessor
 
